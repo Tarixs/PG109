@@ -1,4 +1,8 @@
-//example-03.c 
+/*
+  Calculer le produit de a et b par additions répétées, et vérifier si
+  le résultat est a * b.
+ */
+
 #include <stdio.h> 
 
 int main(int argc, char* argv[]) { 

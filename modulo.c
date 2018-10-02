@@ -1,3 +1,8 @@
+/*
+  Calculer a modulo b par soustractions répétées, et vérifier si le
+  résultat est a % b.
+ */
+
 #include <stdio.h>
 
 int main(int argc, char* argv[]) { 
